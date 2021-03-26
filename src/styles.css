@@ -1,0 +1,16 @@
+
+.progress{
+  height: 30px;
+  width: 150px;
+  border-radius: 20px;
+  border: 1px solid black;
+  background-color: antiquewhite
+ 
+}
+.changable{
+  height: 30px;
+  width: 0px;
+  border-radius: 20px;
+  background: green;
+  transition: width 1.5s linear;
+}
